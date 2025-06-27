@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pet-tracker-web/static/css/main.f855e6bc.css",
+    "main.js": "/pet-tracker-web/static/js/main.f2822723.js",
+    "static/js/453.4a175890.chunk.js": "/pet-tracker-web/static/js/453.4a175890.chunk.js",
+    "index.html": "/pet-tracker-web/index.html",
+    "static/media/logo.svg": "/pet-tracker-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.f855e6bc.css.map": "/pet-tracker-web/static/css/main.f855e6bc.css.map",
+    "main.f2822723.js.map": "/pet-tracker-web/static/js/main.f2822723.js.map",
+    "453.4a175890.chunk.js.map": "/pet-tracker-web/static/js/453.4a175890.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f2822723.js"
+  ]
+}
